@@ -1,4 +1,5 @@
 # ClusterAU-Project
 COMP90024 Cluster Cloud Computing - Project: Cluster AU
 
-Demo videos: https://www.youtube.com/playlist?list=PL2AyGIY91poV8ZASIaUzvHlms0gzlBQQG ![image](https://github.com/user-attachments/assets/2e98af7f-71b2-4b3d-92a8-889abf847c14)
+Demo video: https://www.youtube.com/watch?v=dji7sxRx9aI&list=PL2AyGIY91poV8ZASIaUzvHlms0gzlBQQG&index=1&t=128s&ab_channel=KatrinaDING
+[![Demo of Cluster AU website](https://img.youtube.com/vi/dji7sxRx9aI/0.jpg)](https://www.youtube.com/watch?v=dji7sxRx9aI&list=PL2AyGIY91poV8ZASIaUzvHlms0gzlBQQG&index=1&t=128s&ab_channel=KatrinaDING)  
